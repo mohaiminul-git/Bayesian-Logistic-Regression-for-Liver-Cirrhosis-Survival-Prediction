@@ -26,7 +26,7 @@ rigorous model specification, prior selection, and performance evaluation.
 - Priors and model complexity impacted performance and interpretation
 
 ## 📄 Full Report
-[Download PDF](Bayesian Logistic Regression for Liver Cirrhosis Survival Prediction.pdf)
+[Download PDF](https://raw.githubusercontent.com/<mohaiminul-git>/<Bayesian-Logistic-Regression-for-Liver-Cirrhosis-Survival-Prediction>/<main>/Bayesian-Logistic-Regression-for-Liver-Cirrhosis-Survival-Prediction.pdf)
 
 ## 🔑 Skills Demonstrated
 - Bayesian statistical modeling
