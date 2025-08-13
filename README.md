@@ -25,9 +25,6 @@ rigorous model specification, prior selection, and performance evaluation.
 - Best-performing model: Specificity ~77%, Sensitivity ~65%
 - Priors and model complexity impacted performance and interpretation
 
-## 📄 Full Report
-[Download PDF](https://raw.githubusercontent.com/mohaiminul-git/Bayesian-Logistic-Regression-for-Liver-Cirrhosis-Survival-Prediction/main/Bayesian-Logistic-Regression-for-Liver-Cirrhosis-Survival-Prediction.pdf)
-
 ## 🔑 Skills Demonstrated
 - Bayesian statistical modeling
 - Medical data preprocessing and visualization
